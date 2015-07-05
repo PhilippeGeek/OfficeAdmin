@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Free Code" pattern="src:org.bdeinsalyon.officeadmin.*||src:org.bdeinsalyon.officeadmin.api.*||src:org.bdeinsalyon.officeadmin.gui.*||src:org.bdeinsalyon.officeadmin.property.*" />
+</component>
